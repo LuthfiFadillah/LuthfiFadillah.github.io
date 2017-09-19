@@ -1,3 +1,3 @@
 function loadscreen(){
-	window.location.href = "main.html";
+	window.location.href = "ucs/ucs.html";
 }
