@@ -1,0 +1,12 @@
+body {
+	background-image: url(resources/photo/background-homepage.JPG);
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+h1 {
+	color: white;
+}
+p {
+	color: white;
+}
